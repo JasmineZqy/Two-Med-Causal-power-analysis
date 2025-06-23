@@ -4,7 +4,7 @@ library(glue)
 library(parallel)
 library(ggplot2)
 library(dplyr)
-library("PowerMediators")
+# library("PowerMediators")
 
 runSampsize <- function(
         n = 100,

@@ -1,6 +1,6 @@
-library(shiny)
-library(shinyBS)
-library(DT)
+# library(shiny)
+# library(shinyBS)
+# library(DT)
 
 ui <- fluidPage(
     tags$head(

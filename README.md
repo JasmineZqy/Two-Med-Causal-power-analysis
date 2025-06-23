@@ -9,7 +9,7 @@ The app can also be run locally using the following code in **R**:
 
 ```r
 # Install required packages
-install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "purrr", "stringr"))
+install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "purrr", "stringr","mvtnorm"))
 
 # Run the app (if cloned from GitHub)
 shiny::runApp("path/to/downloaded/folder")
